@@ -13,7 +13,7 @@ Between each meeting you should read the chapter(s) and attempt the lab.
 Feel free to ask James any questions.
 
 # Getting Started
-To do a lab, clone this repo and create a new branch for your work, and then place each project within that lab folder
+To do a lab, clone this repo and create a new branch for your work, and then place each project within that lab folder.
 - Install Java and JDK
   * https://java.com/en/download/
   * http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
@@ -34,7 +34,7 @@ It is recommended to take basic notes for future referral and study.
 At some point I will add in a program to each lab which will test your creations.
 Until then, I will check them myself.
 Copy/Paste your project the folder for each lab, or create/open it there.
-Ignore the "Completion" Sections
+Ignore the "Completion" Sections.
 
 - Lab 1 - Fundamentals (Chapter 1, 2, and 5)
 - Lab 2 - Decision Structures (Chapter 3)
