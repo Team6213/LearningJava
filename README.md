@@ -16,9 +16,17 @@ Between each meeting you should read the chapter(s) and attempt the lab.
 Feel free to ask James any questions.
 
 # Getting Started
+To do a lab, clone this repo and create a new branch for your work
 - Install Java and JDK
+  * https://java.com/en/download/
+  * http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 - Install Eclipse
-- How to use Git and Github
+  * https://www.eclipse.org/downloads/
+- Install Git and Github
+  * https://gist.github.com/derhuerst/1b15ff4652a867391f03
+  * https://desktop.github.com/
+- Tutorials
+  * https://www.youtube.com/watch?v=fJtyf62yAb8&list=PL4-IK0AVhVjM-Qy-wXwjB2Y23_ofXYRie
 
 # Textbook
 A PDF copy of a useful textbook is provided in this repository.
@@ -36,7 +44,7 @@ Copy/Paste your project into the Work folder for each lab, or create/open it the
 - Lab 4 - First look at Classes (Chapter 6)
 - Lab 5 - Arrays (Chapter 7)
 - Lab 6 - Classes Revisited (Chapter 8)
-- * Read Chapter 9. No Lab*
+- Read Chapter 9. No Lab
 - Lab 7 - Inheritance (Chapter 10)
 - Lab 8 - Exceptions and Advanced File I/O (Chapter 11)
 - Lab 9 - GUI (Chapter 12)
