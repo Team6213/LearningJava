@@ -22,7 +22,7 @@ To do a lab, clone this repo and create a new branch for your work, and then pla
 - Install Git and Github
   * https://gist.github.com/derhuerst/1b15ff4652a867391f03
   * https://desktop.github.com/
-- Tutorials
+- Git Tutorial
   * https://www.youtube.com/watch?v=fJtyf62yAb8&list=PL4-IK0AVhVjM-Qy-wXwjB2Y23_ofXYRie
 
 # Textbook
