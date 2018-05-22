@@ -18,7 +18,7 @@ Feel free to ask James any questions.
 # Getting Started
 - Install Java and JDK
 - Install Eclipse
-- How to do the projects
+- How to use Git and Github
 
 # Textbook
 A PDF copy of a useful textbook is provided in this repository.
@@ -27,18 +27,18 @@ It is recommended to take basic notes for future referral and study.
 
 # Labs
 At some point I will add in a program to each lab which will test your creations.
-Until then, I will check them myself
-Copy/Paste your project into the Work folder for each lab, or create/open it there
+Until then, I will check them myself.
+Copy/Paste your project into the Work folder for each lab, or create/open it there.
 
-Lab 1 - Fundamentals (Chapter 1, 2, and 5)
-Lab 2 - Decision Structures (Chapter 3)
-Lab 3 - Loops and Files (Chapter 4)
-Lab 4 - First look at Classes (Chapter 6)
-Lab 5 - Arrays (Chapter 7)
-Lab 6 - Classes Revisited (Chapter 8)
-* Read Chapter 9. No Lab*
-Lab 7 - Inheritance (Chapter 10)
-Lab 8 - Exceptions and Advanced File I/O (Chapter 11)
-Lab 9 - GUI (Chapter 12)
+- Lab 1 - Fundamentals (Chapter 1, 2, and 5)
+- Lab 2 - Decision Structures (Chapter 3)
+- Lab 3 - Loops and Files (Chapter 4)
+- Lab 4 - First look at Classes (Chapter 6)
+- Lab 5 - Arrays (Chapter 7)
+- Lab 6 - Classes Revisited (Chapter 8)
+- * Read Chapter 9. No Lab*
+- Lab 7 - Inheritance (Chapter 10)
+- Lab 8 - Exceptions and Advanced File I/O (Chapter 11)
+- Lab 9 - GUI (Chapter 12)
 
 Also, try reading Chapters 16 and 17. Assignments may be added for them later
