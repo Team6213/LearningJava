@@ -1,6 +1,3 @@
-# LearningJava
-Contains 9 assignments for teaching future programmers Java
-
 # Welcome to Team 6213!
 To paraphrase Chef Gusteau (Ratatouille, 2007): “Anyone can code”. All that you need is determination, and an open mind.
 Programming usually has a steep learning curve, so do not become discouraged if some of the assignments take a while to complete.
