@@ -12,6 +12,8 @@ This "course" will be paced at about 1 chapter per week.
 Between each meeting you should read the chapter(s) and attempt the lab.
 Feel free to ask James any questions.
 
+Also, a C++ textbook is also included for those who are interested in learning C++. C++ can also be used to program the robot, and in the future I would prefer using it over Java. However, for right now I recommend that you learn Java first and develop yourself as a programmer a bit before jumping right into a new language.
+
 # Getting Started
 To do a lab, clone this repo and create a new branch for your work, and then place each project within that lab folder.
 - Install Java and JDK
