@@ -8,9 +8,7 @@ to continue learning about programming.
 These are assignments mirroring those in a college intro to programming course.
 Be prepared to spend time going through the material and doing the work.
 
-This "course" will be paced at about 1 chapter per week. 
-Between each meeting you should read the chapter(s) and attempt the lab.
-Feel free to ask James any questions.
+Feel free to move through the course at your own pace, and to ask James any questions.
 
 Also, a C++ textbook is also included for those who are interested in learning C++. C++ can also be used to program the robot, and in the future I would prefer using it over Java. However, for right now I recommend that you learn Java first and develop yourself as a programmer a bit before jumping right into a new language.
 
@@ -52,3 +50,10 @@ Ignore the "Completion" Sections.
 - Lab 9 - GUI (Chapter 12)
 
 Also, try reading Chapters 16 and 17. Assignments may be added for them later
+
+# Additional Resources
+- Java Tutorial: https://www.tutorialspoint.com/java/
+- Using Java in VS: https://code.visualstudio.com/docs/languages/java
+- Learn Programming in 10 Years (Peter Norvig, Director of Research at Google)http://norvig.com/21-days.html
+- Good Java Resource https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997/ref=sr_1_1?ie=UTF8&qid=1540571053&sr=8-1&keywords=Effective+Java
+- Very Advanced Book (but extremely informative if you are interested in CS) https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686
