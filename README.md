@@ -12,7 +12,7 @@ Feel free to move through the course at your own pace, and to ask James any ques
 
 Also, a C++ textbook is also included for those who are interested in learning C++, and about some computer science concepts such as ADTs and Search / Sorting algorithms. This is the book being used to teach my Computer Science 2 class.
 
-** I HIGHLY recommend that everybody reads at least Chapter 1 of this book as it introduces you to good design practices. **
+**I HIGHLY recommend that everybody reads at least Chapter 1 of this book as it introduces you to good design practices.**
 
 # Getting Started
 To do a lab, clone this repo and create a new branch for your work, and then place each project within that lab folder.
