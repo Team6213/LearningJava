@@ -10,7 +10,9 @@ Be prepared to spend time going through the material and doing the work.
 
 Feel free to move through the course at your own pace, and to ask James any questions.
 
-Also, a C++ textbook is also included for those who are interested in learning C++. C++ can also be used to program the robot, and in the future I would prefer using it over Java. However, for right now I recommend that you learn Java first and develop yourself as a programmer a bit before jumping right into a new language.
+Also, a C++ textbook is also included for those who are interested in learning C++, and about some computer science concepts such as ADTs and Search / Sorting algorithms. This is the book being used to teach my Computer Science 2 class.
+
+*** I HIGHLY recommend that everybody reads at least Chapter 1 of this book as it introduces you to good design practices. ***
 
 # Getting Started
 To do a lab, clone this repo and create a new branch for your work, and then place each project within that lab folder.
