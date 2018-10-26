@@ -19,8 +19,9 @@ To do a lab, clone this repo and create a new branch for your work, and then pla
 - Install Java and JDK
   * https://java.com/en/download/
   * http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
-- Install Eclipse
-  * https://www.eclipse.org/downloads/
+- Install VS Code
+  * https://code.visualstudio.com/download (Select user installer, and your PC is PROBABLY 64-bit)
+  * FRC Instructions for Getting Started with VS Code: https://wpilib.screenstepslive.com/s/currentCS/m/79833/l/932382-installing-vs-code
 - Install Git and Github
   * https://gist.github.com/derhuerst/1b15ff4652a867391f03
   * https://desktop.github.com/
@@ -33,8 +34,9 @@ Before attempting a lab, read through the chapters specified in the lab list.
 It is recommended to take basic notes for future referral and study.
 
 # Labs
+To complete these labs, clone the LearningJava repository and create a branch with your name. Place your code in the appropriate lab directory.
 At some point I will add in a program to each lab which will test your creations.
-Until then, I will check them myself.
+Until then, I will check them myself. Send me a message on slack when you need something checked.
 Copy/Paste your project the folder for each lab, or create/open it there.
 Ignore the "Completion" Sections.
 
